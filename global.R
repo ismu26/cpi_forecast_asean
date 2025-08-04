@@ -16,7 +16,7 @@ library(shinyWidgets)
 
 ##preprocess data =========
 
-filepath <- "C:\\Wigram Dropbox\\Macro - Inflation\\Data Inputs.xlsx"
+filepath <- "XXXX - Inflation\\Data Inputs.xlsx"
 
 #define cpi per country
 cpi_column_map <- list(
